@@ -33,6 +33,44 @@ Within each comparable group identify the lowest and highest verified prices fou
 
 Search multiple independent providers and sellers in both categories. Follow up on unusually low/high offers and ambiguous units. Stop when further targeted searches add no materially different verified offers, and disclose coverage gaps. Never purchase, reserve hardware, open accounts, or contact providers merely to run this skill.
 
+## Vera Rubin updates
+
+Also monitor and research current NVIDIA Vera Rubin platform developments and market availability using the same verification standards used for B300 research.
+
+On every relevant invocation:
+
+- Check current official NVIDIA announcements and reliable provider, OEM, cloud, and infrastructure sources for Vera Rubin-related updates.
+- Track announced Rubin GPU products, Vera CPU + Rubin GPU systems, complete servers, racks, cloud instances, and other commercially relevant configurations separately.
+- Do not treat roadmap announcements, expected launch windows, or future availability as products that can already be rented or purchased.
+- Clearly distinguish:
+  - officially announced products
+  - upcoming products
+  - preorder or reservation offers
+  - quote-only offers
+  - publicly orderable products
+  - actually available rental capacity
+- Record exact product names, GPU counts, memory, system configuration, availability date, region, and pricing when published.
+- Do not silently substitute B300, B200, GB300, H200, or other Blackwell products for Vera Rubin products.
+- Keep individual GPU/module pricing separate from full server, rack, and cloud-instance pricing.
+- For rentals, separate on-demand, reserved, long-term, and interruptible pricing when applicable.
+- For purchases, separate individual components, complete servers, racks, and integrated systems.
+- When pricing is unavailable, report "price not publicly disclosed" rather than estimating or inventing a number.
+- Verify unusually low or high prices using direct provider or seller sources whenever possible.
+- Record the date and time checked and clearly label information that is based on roadmap announcements rather than current commercial availability.
+
+When both B300 and Vera Rubin information are requested, report them in separate sections and do not mix their price ranges.
+
+Where useful, explain how Vera Rubin differs from B300 or other current-generation NVIDIA data-center products, but only use current verified specifications and clearly separate confirmed facts from announced future specifications.
+
+The goal is to provide a reliable view of:
+1. current Vera Rubin product and platform announcements,
+2. expected commercial availability,
+3. verified rental or purchase offers when they exist,
+4. published prices and contract terms,
+5. provider and geographic availability,
+6. major changes since the previous check.
+
 ## Report
 
 Lead with the checked timestamp and a compact summary of verified rental and purchase ranges by comparable group. Provide linked comparison tables with hardware/unit, price and terms, availability, location, and total-cost caveats. Keep rental and purchase tables separate. Include minimum commitments, extra charges, and provider credibility notes in the table or concise linked notes. Clearly distinguish verified facts, provider claims, calculations, and unknowns. End with the most important limitations or information needed to obtain firmer quotes. Do not recommend a winner solely because it has the lowest headline price.
+
